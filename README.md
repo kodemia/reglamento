@@ -24,3 +24,5 @@
 7.  Las personas ajenas al staff de y/o a la comunidad Kodemia no tiene permitido permanecer en las aulas en los horarios de clase. Las aulas en horas de clase son de uso exclusivo para los koders, en caso de venir acompañado puede permanecer en las áreas comunes y hacer uso de los servicios 
 
 8. En caso de incurrir en el incumplimiento de los entregables relacionados con el módulo de “Posicionamiento en TI” no se podrá brindar seguimiento en la búsqueda de empleo
+
+10. En el caso de que la clase sea impartida en linea, la camara debera estar encendida para al momento de la clase, el microfono permanecera desactivado y solo se activará para participar en clase
