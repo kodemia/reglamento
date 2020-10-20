@@ -25,4 +25,4 @@
 
 8. En caso de incurrir en el incumplimiento de los entregables relacionados con el módulo de “Posicionamiento en TI” no se podrá brindar seguimiento en la búsqueda de empleo
 
-10. En el caso de que la clase sea impartida en linea, la camara debera estar encendida para al momento de la clase, el microfono permanecera desactivado y solo se activará para participar en clase
+10. En el caso de que la clase sea impartida en linea, la camara debera estar encendida para al momento de la clase, el microfono permanecera desactivado y solo se activará para participar en clase.
