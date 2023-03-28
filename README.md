@@ -3,7 +3,7 @@
 1. No se garantiza la emisión del certificado ni los resultados de tu formación en caso de incurrir en:
     - 2 inasistencias continuas
     - Más de 10 inasistencias a lo largo del bootcamp
-    - Al menos un Inasistencia en las certificaciones y/o cursos sabatinos
+    - Al menos un Inasistencia en los modulos de certificaciones
     - El incumplimiento de los entregables solicitados por los mentores durante el bootcamp
     - Incumplimiento de la entregas parcial y/o entrega del desafío final
 
